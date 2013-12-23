@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>86EC0ABF-01EC-4DE8-A67D-C179AD28AB77</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RestKitBoilerplate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>562128B5-432D-4428-AABA-94260BF7E895</key>
+		<string>ssh://github.com/thaold/RestKitBoilerplate.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RestKitBoilerplate.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>562128B5-432D-4428-AABA-94260BF7E895</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/thaold/RestKitBoilerplate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>562128B5-432D-4428-AABA-94260BF7E895</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>562128B5-432D-4428-AABA-94260BF7E895</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RestKitBoilerplate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
